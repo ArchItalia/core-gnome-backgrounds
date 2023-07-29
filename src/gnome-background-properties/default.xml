@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Default Background</name>
+    <filename>/usr/share/backgrounds/core/core-l.png</filename>
+    <filename-dark>/usr/share/backgrounds/core/core-d.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>core2</name>
+    <filename>/usr/share/backgrounds/core/core2-l.png</filename>
+    <filename-dark>/usr/share/backgrounds/core/core2-d.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>  
+<wallpaper deleted="false">
+    <name>blossom-floral-bouquet</name>
+    <filename>/usr/share/backgrounds/core/blossom-floral-bouquet.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>    
+<wallpaper deleted="false">
+    <name>leaf-nature</name>
+    <filename>/usr/share/backgrounds/core/leaf-nature.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>     
+</wallpapers>
