@@ -2,7 +2,7 @@
 # PKGBUILD per il pacchetto core-gnome-backgrounds
 
 pkgname=core-gnome-backgrounds
-pkgver=1.6
+pkgver=2.1
 pkgrel=1
 pkgdesc="official Gnome backgrounds Core Linux"
 arch=('any')
