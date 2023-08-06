@@ -10,6 +10,15 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Dynamic</name>
+    <filename>/usr/share/backgrounds/core/core-l.jpg</filename>
+    <filename-dark>/home/jonathan/.local/share/backgrounds/core/core-d.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>mb</name>
     <filename>/usr/share/backgrounds/core/mb.jpg</filename>
     <options>zoom</options>
